@@ -38,5 +38,5 @@ coverage/
 *.temp
 
 #notes
-notes.txt
+*notes.txt
 
