@@ -1,4 +1,0 @@
-username : parthlearn03_db_user
-oassword : cEBU4Aeck3yyc4nC
-
-connection_string : mongodb+srv://parthlearn03_db_user:cEBU4Aeck3yyc4nC@habit0cluster.zkdxdbo.mongodb.net/?appName=habit0cluster 
